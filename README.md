@@ -1,7 +1,7 @@
 - 👋 Hi, I’m pangxiaobin
 - 👀 A passionate backend developer from China
-- 📫 My blog web site: <a href="https://panglb.top/" target="_blank" >panglb.top</a> 
-
+- 📫 My blog web site: [<a href="https://panglb.top/" target="_blank" >panglb.top</a> 
+](https://pangxiaobin.github.io/)
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pangxiaobin&show_icons=true)
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pangxiaobin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
