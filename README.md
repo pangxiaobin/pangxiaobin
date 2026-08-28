@@ -1,7 +1,6 @@
 - 👋 Hi, I’m pangxiaobin
 - 👀 A passionate backend developer from China
 - 📫 My blog web site: https://pangxiaobin.github.io/
-- 🎁 My product web site: https://www.lingxiangtools.top/
 - 🎁 Free Online Image Tools: https://woollypix.cn/
   
 ![Anurag's GitHub stats](https://github-readme-stats.shion.dev/api?username=pangxiaobin&show_icons=true)
